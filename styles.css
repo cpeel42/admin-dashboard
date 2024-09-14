@@ -1,5 +1,6 @@
-body {
+* {
     margin: 0px;
+    padding: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -12,12 +13,28 @@ body {
 .sidebar {
     background-color :rgb(40, 176, 240);
     color: white;
+    padding: 15px 60px 15px 15px;
+}
+
+.nav-button img {
+    filter: invert(1);
+    width: 18px;
 }
 
 .nav-button {
     display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.nav-button .home-button {
+    width: 30px;
+    padding-bottom: 25px;
+}
+.nav-button-gap {
+    height: 30px;
 }
 
 .main > div {
-    padding: 15px;
+    /* padding: 15px; */
 }
