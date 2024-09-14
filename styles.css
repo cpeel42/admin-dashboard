@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.sidebar {
+    background-color :rgb(40, 176, 240);
+    color: white;
+}
+
+.nav-button {
+    display: flex;
+}
+
+.main > div {
+    padding: 15px;
+}

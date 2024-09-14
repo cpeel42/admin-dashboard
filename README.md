@@ -1,0 +1,1 @@
+This is a project testing my CSS skills, in particular Grid.
