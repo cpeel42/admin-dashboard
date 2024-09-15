@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://192.168.42.10:2283/people
+HostUrl=http://192.168.42.10:2283/api/people/7ef61e9d-406e-449c-b6da-21e39bc18606/thumbnail?updatedAt=2024-08-26T23%3A45%3A34.810Z
